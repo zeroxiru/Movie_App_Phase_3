@@ -1,0 +1,61 @@
+{
+    "The Shawshank Redemption": {
+        "rating": 9.5,
+        "year": 1994,
+        "poster":"https://c7.alamy.com/comp/A70THM/shawshank-redemption-1994-rankcastle-rock-film-with-tim-robbine-at-A70THM.jpg"
+    },
+    "Pulp Fiction": {
+        "rating": 8.8,
+        "year": 1994,
+        "poster": "https://c7.alamy.com/comp/A31WHP/pulp-fiction-post…ena-vistamiramax-film-with-uma-thurman-A31WHP.jpg"
+    },
+    "The Room": {
+        "rating": 4.0,
+        "year": 2003,
+        "poster": "Not Available"
+    },
+    "The Godfather": {
+        "rating": 9.2,
+        "year": 1972,
+        "poster": "Not Available"
+    },
+    "The Godfather: Part II": {
+        "rating": 9.0,
+        "year": 1974,
+        "poster": "Not Available"
+    },
+    "The Dark Knight": {
+        "rating": 9.0,
+        "year": 2008,
+        "poster": "Not Available"
+    },
+    "12 Angry Men": {
+        "rating": 8.9,
+        "year": 1957,
+        "poster": "Not Available"
+    },
+    "Everything Everywhere All At Once": {
+        "rating": 8.9,
+        "year": 2022,
+        "poster": "Not Available"
+    },
+    "Forrest Gump": {
+        "rating": 8.8,
+        "year": 1994
+    },
+    "Star Wars: Episode V": {
+        "rating": 8.7,
+        "year": 1980,
+        "poster": "Not Available"
+    },
+    "Titanic": {
+        "year": 1997,
+        "rating": 9.0,
+        "poster": "Not Available"
+    },
+    "Abc": {
+        "year": 2003,
+        "rating": 2.9,
+        "poster": "Not Available"
+    }
+}
